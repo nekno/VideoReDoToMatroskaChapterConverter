@@ -1,4 +1,4 @@
-VideoReDo To Matroska Chatper Converter
+VideoReDo To Matroska Chapter Converter
 ===================================
 
 Converts VideoReDo chapter files to Ogg Media (.OGM) format for use in Matroska files made with mkvmerge/MKVToolNix.
